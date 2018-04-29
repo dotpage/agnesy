@@ -1,5 +1,80 @@
 @import 'sg.less';
 .reset();
+@bg_header: #f6f2f2;
+@bg_nav: rgba(0,0,0,0.8);
+@color_nav: #e0e0e0;
+@bg_nav_hover: #ff3f40;
+@bg_header_btn: #ff2d2d;
+@color_header_btn: #fff;
+@color_block_text: rgba(0,0,0,.7);
+
+@font-face {
+    font-family: 'Open Sans', arial;
+    font-family: 'Open Sans Extrabold', arial;
+    src: url("../font/open-sans.ttf") format("ttf");
+    src: url("../font/open-sans-extrabold.ttf") format("ttf");
+}
+
 .wrapper {
     .wrapper();
+}
+.header {
+    background: @bg_header;
+    font-family: 'Open Sans';
+    &__nav {
+        margin: 0 auto;
+        background: @bg_nav;
+        display: flex;
+        justify-content: center;
+    }
+    &__ul {
+        display: flex;
+    }
+    &__li {
+        color: @color_nav;
+        text-transform: uppercase;
+        font-weight: bold;
+        font-size: 14px;
+        padding: 44px 21px 35px 21px;
+        line-height: 1;
+    }
+    &__li:hover {
+        background: @bg_nav_hover;
+    }
+    &__content {
+        .row-flex();
+    }
+}
+.block {
+    margin-top: 108px;
+    .col();
+    .size(5);
+    &__title {
+        text-transform: uppercase;
+        font-family: 'Open Sans Extrabold', arial;
+        font-size: 60px;
+    }
+    &__text {
+        margin-top: 36px;
+        font-size: 16px;
+        line-height: 28px;
+        color: @color_block_text;
+    }
+    &__button {
+        margin-top: 64px;
+        margin-bottom: 123px;
+        font-weight: bold;
+        font-size: 18px;
+        text-transform: capitalize;
+        border-radius: 5px;
+        width: 227px;
+        height: 55px;
+        border-style: none;
+        background: @bg_header_btn;
+        color: @color_header_btn;
+    }
+}
+.li-link {
+    color: inherit;
+    text-decoration: none;
 }
