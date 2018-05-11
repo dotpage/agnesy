@@ -640,6 +640,7 @@ img {
 }
 
 .feedback {
+  font-family: 'Open Sans', arial;
   padding: 110px 0;
 }
 
@@ -691,7 +692,6 @@ img {
   margin-left: 1%;
   margin-right: 1%;
   width: calc(62.50000000000001% - 2%);
-  font-family: 'Open Sans', arial;
 }
 
 .feedback-form__row {
@@ -733,7 +733,6 @@ img {
   width: 100%;
   font-size: 18px;
   height: 70px;
-  font-family: 'Open Sans', arial;
 }
 
 .feedback-info {
@@ -772,6 +771,7 @@ img {
 }
 
 .footer {
+  font-family: 'Open Sans', arial;
   background: #313030;
 }
 
@@ -793,7 +793,6 @@ img {
   color: #b8b8b8;
   font-size: 16px;
   line-height: 26px;
-  font-family: 'Open Sans', arial;
 }
 
 .social-links__img {
