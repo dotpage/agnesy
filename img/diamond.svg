@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="41" height="33" viewBox="0 0 41 33">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+        fill: url(#linear-gradient);
+        filter: url(#filter);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="3.563" y1="0.031" x2="36.531" y2="33" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <filter id="filter" x="0" y="0.031" width="40.094" height="32.969" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#ff3b4a"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Diamond" class="cls-1" d="M40.081,10.446a0.457,0.457,0,0,0-.032-0.078,0.668,0.668,0,0,0-.024-0.205l-4.119-9.7a0.728,0.728,0,0,0-.669-0.44H4.84a0.728,0.728,0,0,0-.669.44l-4.122,9.7a0.768,0.768,0,0,0-.026.205c0,0.031-.029.046-0.029,0.078,0,0.014.016,0.026,0.016,0.042a0.715,0.715,0,0,0,.163.434l19.32,21.833c0.016,0.019.045,0.011,0.061,0.031a0.818,0.818,0,0,0,.158.122,0.211,0.211,0,0,0,.034.034,0.731,0.731,0,0,0,.582,0,0.149,0.149,0,0,0,.034-0.037,0.638,0.638,0,0,0,.155-0.119c0.018-.02.047-0.012,0.063-0.031L39.9,10.922a0.719,0.719,0,0,0,.166-0.434C40.066,10.472,40.081,10.46,40.081,10.446ZM24.965,1.469l3.553,8.256H11.557l3.556-8.256h9.852Zm3.543,9.7L20.035,30.475,11.567,11.167H28.508Zm-18.525,0,7.531,17.171L2.321,11.167H9.983Zm20.11,0h7.659L22.559,28.335Zm8.173-1.442h-8.17L26.542,1.469h8.215ZM5.319,1.469h8.22L9.983,9.725H1.81Z"/>
+</svg>
